@@ -1,6 +1,4 @@
-
-
-export default function Products() {
+export default function Product() {
   return (
     
     <section className="w-full  mt-[52px]">
@@ -26,7 +24,7 @@ export default function Products() {
   )
 }
 
-function ProductsCard(){
+export function ProductsCard(){
 return(
     <>
     <div className="w-[322px] h-[412px] rounded-3xl  flex flex-col items-center border hover:shadow-lg">

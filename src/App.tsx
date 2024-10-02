@@ -1,8 +1,9 @@
 
 import './App.css'
-import End from './components/End'
-import Hero from './components/Hero'
-import Products from './components/products'
+import Hero from './components/Hero.tsx'
+import Products from './components/Products.tsx'
+import End from './components/End.tsx'
+
 
 function App() {
 
